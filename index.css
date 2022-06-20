@@ -5,12 +5,12 @@ body{
 }
 
 h1{
-    display: flex;
+    display: inline-block;
     font-size: 18px;
     color: white;
     font-family: 'Roboto', sans-serif;
     margin-left: 150px;
-    margin-right: 600px;
+    margin-right: 480px;
 
 }
 
@@ -23,13 +23,19 @@ h1{
 
 }
 
-.links{
-    display: flex;
+.link1{
+    display: inline-block;
+}
+.link2{
+    display: inline-block;
+}
+.link3{
+    display: inline-block;
 }
 .area1{
     color: white;
     margin-left: 150px;
-    padding-top: 80px;
+    padding-top: 60px;
 }
 .awesome-text{
     font-size: 48px;
