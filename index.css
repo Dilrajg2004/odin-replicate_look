@@ -65,3 +65,44 @@ h1{
     display: block;
     text-align: center;
 }
+.area2{
+    background-color: white;
+    display: block;
+    justify-content: center;
+
+}
+.area2-1{
+    display: flex;
+    justify-content: center;
+}
+.randiv1{
+    border: 3px solid #3882F6;
+    border-radius: 8px;
+    height: 130px;
+    width: 130px;
+    display:inline-block;
+    margin-right: 22px;
+}
+.randiv2{
+    border: 3px solid #3882F6;
+    border-radius: 8px;
+    height: 130px;
+    width: 130px;
+    display:inline-block;
+    margin-right: 22px;
+}
+.randiv3{
+    border: 3px solid #3882F6;
+    border-radius: 8px;
+    height: 130px;
+    width: 130px;
+    display:inline-block;
+    margin-right: 22px;
+}
+.randiv4{
+    border: 3px solid #3882F6;
+    border-radius: 8px;
+    height: 130px;
+    width: 130px;
+    display:inline-block;
+}
