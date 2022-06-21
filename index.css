@@ -199,3 +199,12 @@ h1{
     display: inline-block;
     margin-right: 90px;
 }
+.area5{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: 300;
+    font-size: 18px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
